@@ -31,7 +31,7 @@ Download PhoenixSuit：[PhoenixSuit](https://www.aw-ol.com/downloads/resources/1
 
 Before using PhoenixSuit, you need to install the driver at the same time: [Allwinner USB Driver](https://www.aw-ol.com/downloads/resources/15)
 
-*Enterprise developers will also install the Allwinner USB driver when installing APST, so there is no need to install it separately
+> Enterprise developers will also install the Allwinner USB driver when installing APST, so there is no need to install it separately
 
 Specific steps are as follows:
 
