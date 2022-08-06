@@ -35,14 +35,17 @@ Before using PhoenixSuit, you need to install the driver at the same time: [Allw
 
 Specific steps are as follows:
 
-(1) Open PhoenixSuit, when the device is powered on and connected to the PC, PhoenixSuit will prompt to recognize the device;
+1. Open PhoenixSuit, when the device is powered on and connected to the PC, PhoenixSuit will prompt to recognize the device;
+2. Click `One-click flash-browse` to select the firmware to be flashed;
+3. Click `Upgrade now`, then a restart command will be sent to the device through USB, the device will restart with the programming logo, and enter the flash mode in the restart stage;
+4.  When the device returns to boot, it will be automatically programmed, and you can see that the progress bar of PhoenixSuit is moving;
+5. After the flash is successful, the device restarts.
 
-(2) Click `One-click flash-browse` to select the firmware to be flashed;
+If the software cannot automatically connect to the development board, please follow the steps below to force to the download mode:
 
-(3) Click `Upgrade now`, then a restart command will be sent to the device through USB, the device will restart with the programming logo, and enter the flash mode in the restart stage;
-
-(4) When the device returns to boot, it will be automatically programmed, and you can see that the progress bar of PhoenixSuit is moving;
-
-(5) After the flash is successful, the device restarts.
+1. Power on the development board, press and hold the FEL button on the board
+2. Click the RST button
+3. After the PC is connected to the development board, release the FEL button
+4. Just wait for the download
 
 ![image-20210310195432915.png](Bitmap/image-20210310195432915.png)
