@@ -49,3 +49,11 @@ If the software cannot automatically connect to the development board, please fo
 4. Just wait for the download
 
 ![image-20210310195432915.png](Bitmap/image-20210310195432915.png)
+
+## Appendix
+
+### LCD Screen
+
+The development board uses a general 18 Pin SPI LCD interface, boosted backlight
+
+![04](Bitmap/04.jpg)
