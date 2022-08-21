@@ -17,7 +17,7 @@ reduces power consumption of 20% than the last generation.
 
 ## Firmware
 
-
+You can find latest firmware at [RELEASE](https://github.com/YuzukiHD/YuzukiChameleon/releases)
 
 ## Development
 
