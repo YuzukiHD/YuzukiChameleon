@@ -1,23 +1,23 @@
-# Yuzuki Rosetta
+# Yuzuki Chameleon
 
-Yuzuki Rosetta is a low-cost Linux development board based on the R328-S3. Dual-core A7, 128MB RAM, NAND Flash, WI-FI&BT. With Raspberry Pi Zero board shape
+Yuzuki Chameleon is a Raspberry Pi A Sized SBC based on Allwinner H616
 
-- Cortex A7 * 2
-- DDR3 128MB
-- XR829 Wi-Fi，BT
-- MEMS
-- Audio Codec & 3.5mm
-- RGB LED WS2812
-- CH343P UART to USB
-- SPI TFT LCD 18Pin
+![main](Bitmap/main.jpeg)
 
-![01](Bitmap/02.jpeg)
+## Allwinner H616
 
-## Allwinner R328
+H616 is a new-generation high picture quality 64-bit 4K@60fps decoding SoC provided by Allwinner for the
+OTT and IPTV markets. It integrates the quad core 64-bit CortexTM-A53 processor, and the new G31 GPU
+engine of ARM that supports OpenGL ES 3.2/Vulkan 1.1. Besides, H616 supports full-format 4K@60fps
+10-bit ultra-HD video decoding, Allwinner self-developed SmartColor3.3TM picture enhancement engine,
+Dolby, and DTS audio processing. H616 adopts the new generation of power consumption technology, and
+reduces power consumption of 20% than the last generation.
 
-Allwinner’s R328-S3 is a highly integrated dual-core SoC targeted for audio application markets. The R328-S3 integrates a dual-core ARM Cortex-A7 operating up to 1.2GHz. An extensive set of audio interfaces such as audio codec, I2S/PCM,DMIC,one wire audio(OWA) are included for microphone voice wake-up/recognition/record/playback applications on connected audio products. In addition, voice activity detector(VAD) supports low power consumption wake-up function to reduce standby power consumption.
+![brief](Bitmap/brief.png)
 
-![01](Bitmap/03.png)
+## Firmware
+
+
 
 ## Development
 
@@ -50,10 +50,3 @@ If the software cannot automatically connect to the development board, please fo
 
 ![image-20210310195432915.png](Bitmap/image-20210310195432915.png)
 
-## Appendix
-
-### LCD Screen
-
-The development board uses a general 18 Pin SPI LCD interface, boosted backlight
-
-![04](Bitmap/04.jpg)
