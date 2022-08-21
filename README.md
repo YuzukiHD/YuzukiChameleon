@@ -1,6 +1,6 @@
 # Yuzuki Chameleon
 
-Yuzuki Chameleon is a Raspberry Pi A Sized SBC based on Allwinner H616
+Yuzuki Chameleon is a Raspberry Pi A Shaped SBC based on Allwinner H616
 
 ## Feature
 - Based on Allwinner H616 chip, 4*Cortex A53
