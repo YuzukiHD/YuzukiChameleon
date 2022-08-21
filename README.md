@@ -39,6 +39,8 @@ Coming soon..
 
 ## Flash Firmware
 
+### Android and Tina Linux
+
 The following mainly introduces the method of flash with PhoenixSuit. The flash method of LiveSuit and PhoenixUSBpro is similar.
 
 Download PhoenixSuit：[PhoenixSuit](https://www.aw-ol.com/downloads/resources/13)
