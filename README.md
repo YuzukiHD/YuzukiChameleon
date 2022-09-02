@@ -35,7 +35,7 @@ We provide Tina Linux, Ubuntu, Android TV firmwares
 
 ## Development
 
-Coming soon..
+Armbian Pending...
 
 ## Flash Firmware
 
