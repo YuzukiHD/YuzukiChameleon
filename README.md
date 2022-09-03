@@ -2,6 +2,8 @@
 
 Yuzuki Chameleon is a Raspberry Pi A Shaped SBC based on Allwinner H616
 
+OSHWHub: https://oshwhub.com/gloomyghost/yuzukih616
+
 ## Feature
 - Based on Allwinner H616 chip, 4*Cortex A53
 - HDMI supports 4K@60, supports up to 6K video decoding
