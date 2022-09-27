@@ -44,9 +44,9 @@ Armbian Pending...
 
 ## Flash Firmware
 
-### Android and Tina Linux
+### Allwinner Proprietary image (Android, Tina Linux, BSP Debian)
 
-The following mainly introduces the method of flash with PhoenixSuit. The flash method of LiveSuit and PhoenixUSBpro is similar.
+The following mainly introduces the method of flash with PhoenixSuit. The flash method of LiveSuit and PhoenixUSBPro is similar.
 
 Download PhoenixSuit：[PhoenixSuit](https://www.aw-ol.com/downloads/resources/13)
 
@@ -71,3 +71,6 @@ If the software cannot automatically connect to the development board, please fo
 
 ![image-20210310195432915.png](Bitmap/image-20210310195432915.png)
 
+### Mainline Linux (Armbian, Ubuntu, Mainline Buildroot, and so on..)
+
+Firmware based on the mainline can be directly accessed by using the `dd` command
