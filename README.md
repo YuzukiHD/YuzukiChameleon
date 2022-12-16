@@ -74,4 +74,7 @@ If the software cannot automatically connect to the development board, please fo
 
 ### Mainline Linux (Armbian, Ubuntu, Mainline Buildroot, and so on..)
 
+https://github.com/dumtux/Allwinner-H616
+
 Firmware based on the mainline can be directly accessed by using the `dd` command
+
