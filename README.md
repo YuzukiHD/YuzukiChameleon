@@ -42,7 +42,15 @@ We provide Tina Linux, Ubuntu, Android TV firmwares
 
 ## Development
 
-Armbian Pending...
+### BSP: Docker image
+
+```
+docker pull gloomyghost/yuzukichameleon
+```
+
+### Mainline
+
+https://github.com/dumtux/Allwinner-H616
 
 ## Flash Firmware
 
