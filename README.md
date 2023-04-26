@@ -45,7 +45,12 @@ We provide Tina Linux, Ubuntu, Android TV firmwares
 ### BSP: Docker image
 
 ```
-docker pull gloomyghost/yuzukichameleon
+root@root:~# docker pull gloomyghost/yuzukichameleon
+root@root:~# docker run -it gloomyghost/yuzukichameleon
+root@29a6b322d542:~# cd ~/
+root@29a6b322d542:~# source build/envsetup.sh
+root@29a6b322d542:~# lunch 1
+root@29a6b322d542:~# mp -j12
 ```
 
 ### Mainline
